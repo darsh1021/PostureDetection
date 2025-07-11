@@ -1,9 +1,9 @@
-========================================================     Posture Detection        ===========================================================================================
+========================================================     Posture Detection        
 A real-time posture detection web app using Flask (Python) and React (JavaScript). 
 It uses Mediapipe and OpenCV to detect squat and desk posture from a webcam feed and provides visual and audio feedback.
 
 
-========================================================    Tech Stack Used           ============================================================================================ 
+========================================================    Tech Stack Used           
 ##Frontend (React):
 - React.js
 - HTML, CSS, JavaScript
@@ -15,7 +15,7 @@ It uses Mediapipe and OpenCV to detect squat and desk posture from a webcam feed
 - OpenCV
 - Mediapipe
 
-========================================================    Set Up Instructions       ============================================================================================
+========================================================    Set Up Instructions
 ##Requirements
 python --version
 npm --version
@@ -38,7 +38,7 @@ venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
 python app.py
 
-=========================================================   Links  ==========================================================================================================
+======================================================================= Links  
 Link to deployed app  : https://posture-detection-psi.vercel.app/
 **Frontend is Deployed 
 **Backend is not deployed since Render not supporting MEDIAPIPE 
