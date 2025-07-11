@@ -1,0 +1,3 @@
+[build]
+buildCommand = "python3 -m pip install -r flask_backend/requirements.txt"
+startCommand = "gunicorn flask_backend.app:app"
